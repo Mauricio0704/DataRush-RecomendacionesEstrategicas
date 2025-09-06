@@ -4,6 +4,9 @@
 > Objetivo: detectar patrones con EDA/visualización en datos reales y convertirlos en **recomendaciones claras** para negocios.
 ---
 
+## Link
+https://drive.google.com/file/d/1nFEGbdKNKyOXc--aZwT-C97tbF536Per/view
+
 ## Resumen
 
 1. **Volumen ≠ Apertura internacional.**
